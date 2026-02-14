@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "My App",
-    "slug": "my-app",
+    "name": "MetabolicAI Pro",
+    "slug": "metabolic-ai-pro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
